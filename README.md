@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">IT Infrastructure & Cloud Operations | Azure | Hybrid | Automation</h3>
 
+<h1 align="center">Hi 👋, I'm Bartek</h1>
+<h3 align="center">IT Infrastructure & Cloud Operations | Azure | Hybrid | Automation</h3>
+
+<p align="center">
+  <a href="https://u8views.com/github/bartszcz">
+    <img src="https://u8views.com/api/v1/github/profiles/156921985/views/day-week-month-total-count.svg" alt="profile views" />
+  </a>
+</p>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bartszcz&label=Profile%20views&color=0e75b6&style=flat" alt="bartszcz" /> 
 </p>
