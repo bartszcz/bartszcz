@@ -7,10 +7,6 @@
   </a>
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bartszcz&label=Profile%20views&color=0e75b6&style=flat" alt="bartszcz" /> 
-</p>
-
 - 🔭 **Current focus:** Hybrid infrastructure modernization, tenant-to-tenant Microsoft 365 and Azure migrations, and automation of IT operations.
 
 - 🌱 **Currently learning:**  
