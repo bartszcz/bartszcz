@@ -1,72 +1,74 @@
-<h1 align="center">Hi 👋, I'm Bartek</h1>
-<h3 align="center">IT Infrastructure & Cloud Operations | Azure | Hybrid | Automation</h3>
+<!-- Header -->
+<div align="center">
 
-<p align="center">
-  <a href="https://u8views.com/github/bartszcz">
-    <img src="https://u8views.com/api/v1/github/profiles/156921985/views/day-week-month-total-count.svg" alt="profile views" />
-  </a>
-</p>
+```
+~/bartek $ whoami
+```
 
-- 🔭 **Current focus:** Hybrid infrastructure modernization, tenant-to-tenant Microsoft 365 and Azure migrations, and automation of IT operations.
+# Hi, I'm Bartek 👋
 
-- 🌱 **Currently learning:**  
-  Azure architecture and landing zones, governance at scale, advanced PowerShell automation, Python for infrastructure tooling, VMware in hybrid setups, and Fortinet security platforms.
+**IT Infrastructure & Cloud Operations · Azure · Hybrid · Automation**
 
-- 👯 **Open to collaborate on:**  
-  Azure automation, governance frameworks, Infrastructure as Code, and IT operations tooling.
+<a href="https://u8views.com/github/bartszcz">
+  <img src="https://u8views.com/api/v1/github/profiles/156921985/views/day-week-month-total-count.svg" alt="profile views" />
+</a>
 
-- 🤝 **Looking to deepen expertise in:**  
-  Advanced Azure architecture patterns, security automation, and large-scale DevOps/platform engineering practices.
+</div>
 
-- 💬 **Ask me about:**  
-  Azure and hybrid infrastructure, PowerShell automation, Intune and SCCM, tenant-to-tenant migrations, Hyper-V environments, and IT operations governance.
+---
 
-- ⚡ **Fun fact:**  
-  I automate things so I don’t have to click them twice. When the scripts finally behave, I switch to guitar or piano.
+## 🔭 Current Focus
+Hybrid infrastructure modernization, tenant-to-tenant **Microsoft 365 & Azure migrations**, and end-to-end automation of IT operations.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  https://www.linkedin.com/in/bartlomiej-szczesny/
-</p>
+## 🌱 Currently Learning
+`Azure Landing Zones` · `Governance at Scale` · `Advanced PowerShell` · `Python for Infra` · `VMware Hybrid` · `Fortinet`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a> 
-  <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> 
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a> 
-  <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/>
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-</p>
+## 🤝 Looking to Deepen
+Advanced Azure architecture patterns · Security automation · Large-scale DevOps & platform engineering
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bartszcz&show_icons=true&locale=en" alt="bartszcz" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bartszcz&" alt="bartszcz" />
-</p>
+## 🛠️ Languages & Tools
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![IFTTT](https://img.shields.io/badge/IFTTT-000000?style=flat-square&logo=ifttt&logoColor=white)
+
+---
+
+## 👯 Open to Collaborate On
+- Azure automation & governance frameworks
+- Infrastructure as Code projects
+- IT operations tooling
+
+## 💬 Ask Me About
+- Azure & hybrid infrastructure · Hyper-V environments
+- PowerShell automation · Intune · SCCM
+- Tenant-to-tenant migrations · IT ops governance
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bartszcz&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="bartszcz stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bartszcz&theme=tokyonight&hide_border=true" alt="bartszcz streak" />
+
+</div>
+
+---
+
+## 🔗 Connect
+
+<a href="https://www.linkedin.com/in/bartlomiej-szczesny/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
