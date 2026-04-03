@@ -64,8 +64,9 @@ Advanced Azure architecture patterns · Security automation · Large-scale DevOp
 
 <div align="center">
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=bartszcz&theme=tokyonight&hide_border=true" alt="bartszcz streak" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartszcz&layout=compact&theme=tokyonight&hide_border=true" alt="bartszcz top langs" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=bartszcz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bartszcz&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
