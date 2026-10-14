@@ -4,7 +4,7 @@
 
 **IT Infrastructure · Azure & Microsoft 365 · Automation**
 
-IT Manager in manufacturing · independent consultant at [infocus-it](https://infocus-it.pl)
+IT Manager in manufacturing · independent consultant at [infocus-it]
 
 [![Website](https://img.shields.io/badge/infocus--it.pl-1F2937?style=flat-square&logo=googlechrome&logoColor=white)](https://infocus-it.pl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartlomiej-szczesny/)
